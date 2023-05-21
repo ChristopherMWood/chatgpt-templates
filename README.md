@@ -1,4 +1,4 @@
-# chatgpt-templates
+# ChatGPT Templates
 **Note:** These are general purpose ChatGPT templates for use with primarily ChatGPT 4.0 or above. Your mileage may vary previous version or other ChatBots.
 
 ## Templates
