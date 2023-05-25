@@ -13,6 +13,8 @@ There is a local AI Meetup group in Chattanooga that meets every other Wednesday
 - [Software Engineering Prompts](software-engineering-prompts.md)
 
 ## Additional Links
+- LLM Explanation: https://en.wikipedia.org/wiki/Large_language_model
+- GPT Explanation: https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
 - Mr. Ranedeer AI Tutor Template: https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
 - Prompt Engineering Guide: https://www.promptingguide.ai/
 - How ChatGPT Work: https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/
