@@ -7,7 +7,7 @@ https://chat.openai.com/
 ## Meetup Group You can Join
 There is a local AI Meetup group in Chattanooga that meets every other Wednesday.
 - Chattanooga Generative AI Working Group: https://www.meetup.com/chattanooga-generative-ai-working-group/
-- Group Discord: https://discord.gg/yuNzRRTw
+- Group Discord: https://discord.gg/REHzgVyaKa
 
 ## Templates
 - [Software Engineering Prompts](software-engineering-prompts.md)
